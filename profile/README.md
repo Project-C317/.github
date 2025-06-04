@@ -46,7 +46,7 @@ API web desenvolvida para otimizar a gestão de serviços no setor de eventos. A
 
 ### Deployment & Tools 
 
-**Deployment com Render e Netlify para deploy, e Git com GitHub para controle de versão e colaboração**
+**Utilização do Render e Netlify para deploy, e Git com GitHub para controle de versão e colaboração**
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
