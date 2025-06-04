@@ -28,7 +28,7 @@ API web desenvolvida para otimizar a gestão de serviços no setor de eventos. A
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) [![API Documentation](https://img.shields.io/badge/📚_API_Docs-Explorar-4ECDC4?style=for-the-badge&logo=render&logoColor=white)](https://elodrinks-backend.onrender.com)
 
-🧩 **Repositório** [Repositório](https://github.com/Project-C317/elodrinks-backend)  
+🧩 **Repositório** [Project-C317/elodrinks-backend](https://github.com/Project-C317/elodrinks-backend)  
 🔗 **Produção:** [elodrinks-backend.onrender.com](https://elodrinks-backend.onrender.com)
 
 ---
