@@ -26,10 +26,24 @@ API web desenvolvida para otimizar a gestão de serviços no setor de eventos. A
 
 **API REST construída em Node.js e TypeScript** 
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) [![API Documentation](https://img.shields.io/badge/📚_API_Docs-Explorar-4ECDC4?style=for-the-badge&logo=render&logoColor=white)](https://elodrinks-backend.onrender.com/api-docs)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express) 
+
+**Desenvolvimento do banco de dados com MongoDB e Docker**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Nossa Stack de testes e QA com testes de integração e testes unitários**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 🧩 **Repositório** [Project-C317/elodrinks-backend](https://github.com/Project-C317/elodrinks-backend)  
 🔗 **Produção:** [elodrinks-backend.onrender.com](https://elodrinks-backend.onrender.com)
+
+[![API Documentation](https://img.shields.io/badge/📚_API_Docs-Explorar-4ECDC4?style=for-the-badge&logo=render&logoColor=white)](https://elodrinks-backend.onrender.com)
 
 ---
 
@@ -48,7 +62,11 @@ API web desenvolvida para otimizar a gestão de serviços no setor de eventos. A
 
 **Utilização do Render e Netlify para deploy, e Git com GitHub para controle de versão e colaboração**
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4F8CC9?style=for-the-badge&logo=mongodb&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </br>
 
