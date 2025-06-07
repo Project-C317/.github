@@ -43,7 +43,7 @@ API web desenvolvida para otimizar a gestão de serviços no setor de eventos. A
 🧩 **Repositório** [Project-C317/elodrinks-backend](https://github.com/Project-C317/elodrinks-backend)  
 🔗 **Produção:** [elodrinks-backend.onrender.com](https://elodrinks-backend.onrender.com)
 
-[![API Documentation](https://img.shields.io/badge/📚_API_Docs-Explorar-4ECDC4?style=for-the-badge&logo=render&logoColor=white)](https://elodrinks-backend.onrender.com)
+[![API Documentation](https://img.shields.io/badge/📚_API_Docs-Explorar-4ECDC4?style=for-the-badge&logo=render&logoColor=white)](https://elodrinks-backend.onrender.com/api-docs)
 
 ---
 
